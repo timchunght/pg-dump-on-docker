@@ -3,10 +3,11 @@
 
 This Dockerfile is ``debian:jessie``, the version that is compatible with ``postgres 9.4+``. The following is a list of image names and their corresponding postgres version.
 
-wheezy (oldstable) 	9.1+134
-jessie (stable)   	9.4+165
-stretch (testing) 	9.4+169
-sid (unstable) 			9.4+169
+	wheezy (oldstable) 	9.1+134
+	jessie (stable)   	9.4+165
+	stretch (testing) 	9.4+169
+	sid (unstable) 			9.4+169
+	
 Check out this link to find out more about different versions and their images
 
 	https://packages.debian.org/search?keywords=postgresql-client
